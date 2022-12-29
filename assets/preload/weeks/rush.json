@@ -1,0 +1,32 @@
+{
+	"storyName": "Sonic vs Blaze",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "rush",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Rush",
+			"blaze",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Rush",
+	"hiddenUntilUnlocked": false
+}
