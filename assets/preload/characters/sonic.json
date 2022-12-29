@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-185,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sonic Left"
+		},
+		{
+			"offsets": [
+				-150,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sonic Down"
+		},
+		{
+			"offsets": [
+				-226,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sonic Right"
+		},
+		{
+			"offsets": [
+				-186,
+				117
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sonic Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-305,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sonic Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				560,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "yeahs",
+			"loop": false,
+			"name": "Sonic Yeah"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sonic",
+	"position": [
+		0,
+		-20
+	],
+	"healthicon": "sonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		116,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.59999999999999,
+	"scale": 1
+}
